@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\Maxim\OneDrive\Escritorio\examen-java3\ECLIPSE-master\com\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

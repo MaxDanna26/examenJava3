@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Users\Maxim\OneDrive\Escritorio\examen-java3\.metadata\.plugins\org.eclipse.jdt.core
